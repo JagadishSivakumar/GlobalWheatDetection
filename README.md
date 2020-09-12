@@ -3,6 +3,7 @@ Global Wheat Detection by University of University of Saskatchewan - Kaggle
 
 - EfficientDet D6
 - Insect /Flies Augmentation of wheat idea to achieve Silver Medal
+- Implementation with GPU, Cuda cores used
 
 
 **EfficientDet**
