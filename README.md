@@ -8,3 +8,6 @@ Global Wheat Detection by University of University of Saskatchewan - Kaggle
 
 **EfficientDet**
 https://arxiv.org/pdf/1911.09070.pdf
+
+**Copyrights and Issues**
+- Yolo should not be used in the competition due to copyright issues
